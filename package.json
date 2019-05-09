@@ -1,0 +1,23 @@
+{
+  "name": "vue-web-share",
+  "version": "0.0.0",
+  "description": "The native sharing mechanism of the device as part of the Web Share API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itechmeat/vue-web-share.git"
+  },
+  "keywords": [
+    "vue",
+    "web-share"
+  ],
+  "author": "itechmeat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itechmeat/vue-web-share/issues"
+  },
+  "homepage": "https://github.com/itechmeat/vue-web-share#readme"
+}
